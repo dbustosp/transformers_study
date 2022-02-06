@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/danilobustos/transformers/notebooks/QA/mlruns/0/e4fd7d514ba5402f933b2837546ab572/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e4fd7d514ba5402f933b2837546ab572
+run_uuid: e4fd7d514ba5402f933b2837546ab572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644118912060
+status: 1
+tags: []
+user_id: danilobustos
